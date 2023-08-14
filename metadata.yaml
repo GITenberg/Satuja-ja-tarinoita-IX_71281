@@ -1,0 +1,45 @@
+_repo: Satuja-ja-tarinoita-IX_71281
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2023-07-26'
+identifiers:
+  gutenberg: '71281'
+language: fi
+pgterms:marc905: 20230105094909andersen
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Kummisedän kuvakirja -- Rääsyt -- Vänö ja Glänö -- Kuka oli onnellisin?
+  -- Dryadi -- Kana-Kreetan perhe -- Ohdakkeen kokemukset -- Sepä oli keksintö --
+  Onni voi piillä puupalikassa. -- Pyrstötähti -- Viikonpäivät -- Päiväpaisteen tarinoita
+  -- Vaarinisä -- Kynttilät -- Tavattomin -- Mitä koko perhe sanoi -- Tanssi, tanssi
+  tyttisein -- Suuri merikäärme -- Puutarhuri ja herrasväki -- Kirppu ja professori
+  -- Mitä vanha Johanna kertoi -- Portinavain -- Rampa -- Täti hammastauti.
+title: Satuja ja tarinoita IX
+url: http://www.gutenberg.org/ebooks/71281
